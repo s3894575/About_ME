@@ -1,5 +1,6 @@
 # About_ME
-<h1>BACKGROUND<h1>
+
+<h1>Background<h1>
   
 <p> My name is Benjamin Wakyereza and I'm born in Uganda where I lived my childhood years. I came to Melbourne Australia when I was turning thirteen and I have lived here ever since. </p>
 

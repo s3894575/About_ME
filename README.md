@@ -76,7 +76,10 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 
   <section>
         <h3>Personal Profile</h3>
-        <p>The following are based on the Leadership-style-quiz, learning-styles, 16 personalities.</p>
+        <p>The following are based on the Leadership-style-quiz, learning-styles, 16 personalities.</P>
+	<p><a href="https://eml.usc.edu/leadership-style-quiz">Leadership-style-quiz</a></p>
+	<p><a href="http://www.emtrain.eu/learning-styles/">Leadership-style-quiz</a></p>
+	<p><a href="https://www.16personalities.com//">Personalities</a></p>
 	<img class="img1" src="screenshot-leadership style.png" width="440" height="500" alt="Picture">
 	<img class="img1" src="screenshot-learning style.png" width="440" height="500" alt="Picture">
 	<img class="img1" src="screenshot-ENFP-A.png" width="440" height="500" alt="Picture">

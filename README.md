@@ -54,13 +54,7 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 					<p>I decided that the Bachelor of IT degree would be a good start as there is a potential to specialise in many different fields of technology. I did not have to think long about which university would suit me, because hearing from my career adviser and other people RMIT was such an obvious choice for me. As I study at RMIT I want to develop skills that will enable me to become anything from DevOps developer or Network administrator to furthering my studies to work in A.I development.</p>
 				</section>
 
-
-<section>
-					<h3>Philosophy</h3>
-					<p>While there I don't have formal education in philosophy it is very much an interest of mine.</p>
-					<p>Always interested in reading and learning more! I can not recommend having another interest enough outside of Information Technology. Such development and passion in other areas can only benefit you more.</p>
-				</section>
-			</section>  
+</section>  
 	
 <section id="job">
 			<header class="sectionHeading">

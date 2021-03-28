@@ -81,7 +81,11 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
       </section>
       <section>
         <h3>Project Idea.</h3>
-        <p>This is my project idea.</p>
+        <p>My plan is to create a head-up display system that brings all the information and data needed to ensure an optimal driver experience. It will have features that improve situational awareness in any condition. Whether you are out in the wild on an adventure, or on the way to your office this smart system will give you the guidance you need.</p>
+	<p>Ever since the development and improvement of HUD technology, innovators have been finding ways to implement HUD in the places where they are needed most. Initially this technology could only be affordable by the military, whose job was to ensure the safety and efficiency of flight pilots during their missions. Applying this technology for our normal everyday use is the natural step into the future. It cannot make sense for such technology to be privy to only those in the military, when it is very much possible for those on the road to have it. The fact is the priority for such features is for those in dangerous situations like the army. However, without downplaying this fact, it is also a fact that you are more likely to die in a car crash than in flying in the air. So, if the HUD technology being proposed for commercial use will deliver a higher level of decision making for drivers as for fighter pilots, then it should be a priority to put it on the road.</p>
+	<p>To begin with, a vehicle that has this HUD technology implemented, will be able to project the virtual images at a distance. The projected images will include, and not limited to; car telemetry, GPS 3D live map.Safety features such as early warning and threat detection systems. The ability to connect to a smartphone via bluetooth inorder to project information from apps such as phone calls, messages from various apps and the ability to respond via the integrated smart voice interaction. In addition, the car will have a smart windshield screen protected by a double layer of windshield glass. This smart windshield will be able to project live feed of night vision cameras in front of the car. This way the driver can see at night. There will also be infrared cameras to detect possible threats, especially for those driving in wild or dangerous places.</p>
+	<p>To make a HUD you would need a picture generating unit which is responsible for displaying the required features. Extensive research will be required to understand the processes that are needed in order to create a working system.</p>
+	<p>The end goal for this technology is to see an increase in the situational awareness of drivers on a road. In addition, the global implementation will hopefully be a drop in road accidents due to lack of concentration and awareness. </p>
       </section>
       </section>
 
@@ -89,7 +93,7 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 
 
 <footer>
-		  <p>And that's it... could put ownership details down here in the footer. Maybe contact details. etc..<p>
+		  <p>Student number: 3894575 <b> student email address: s3894575@student.rmit.edu.au<p>
 		</footer>  
 	</div>
 </body>

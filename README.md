@@ -25,9 +25,9 @@
 				<h2>Background</h2>
 			</header>
       <section>
-			<p>My name is Benjamin J.K Wacky ereza, I was born August 3, 2001 in Uganda where I lived my childhood years. I moved to Melbourne Australia with my parents and two brothers when I was turning thirteen and I have lived in Melbourne ever since. </br>
+			<p>My name is Benjamin J.K Wacky ereza, I was born August 3, 2001 in Uganda where I lived my childhood years. I moved to Melbourne Australia with my parents and two brothers when I was turning thirteen and I have lived in Melbourne ever since. 
 
-Arriving in Australia this young meant that I could start the high school experience right along with my peers where I could learn and assimilate to the Australian culture more easily. Although not surprising, this also meant that I would lose my speaking proficiency of Luganda, my mother tongue, over the years even though I can understand it perfectly. </br>
+Arriving in Australia this young meant that I could start the high school experience right along with my peers where I could learn and assimilate to the Australian culture more easily. Although not surprising, this also meant that I would lose my speaking proficiency of Luganda, my mother tongue, over the years even though I can understand it perfectly. 
 
 Throughout my life, I have had a progression of hobbies, starting from playing video games all day, movies, trying out musical instruments( i.e; piano and Guitar), reading books to knowing everything about cars and many more in between. At the moment I am trying to explore my dancing abilities. Further more while in school I was playing soccer at every opportunity, not even the playing I did for my club would quench my hunger for the game.
 </p>

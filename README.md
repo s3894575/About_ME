@@ -1,10 +1,7 @@
-<!doctype html>
-
 <html lang="en">
 <head>
   <meta charset="utf-8">
 
-  <title>About Me</title>
   <meta name="description" content="About Me">
   <meta name="author" content="s3894575">
 

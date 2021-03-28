@@ -19,7 +19,7 @@
 			<header id="myHeader">  
 			  <h1>Welcome to my Profile</h1>
 			  <p>Benjamin John Kwagala Wackyereza</p>
-			  <img class="img1" src="DSCN0514..jpg" width="440" height="500" alt="Picture">
+			  <img class="img1" src="DSCN0514..jpg" width="440" height="500" alt="My Face">
 			</header>
 
 		<!-- Main -->

@@ -89,7 +89,7 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 	<p> img src="screenshot-leadership style.png" width="400" height="500" alt="profile" </p>
 	<img src="screenshot-learning style.png" width="400" height="500" alt="profile"> <b>
 	<img src="screenshot-ENFP-A.png" width="400" height="500" alt="profile">
-	
+	<img class="img1" src="DSCN0514..jpg" width="440" height="500" alt="Picture">
 
         <p>These results help inform my idea of who I am and show the possibility why I do the things I do. When it comes to relating with others, I feel that this is a somewhat accurate representation of how I would like to be. Especially when it comes to leadership, I want to be the servant leader for my team and others. However, at the end of the day my goal is always to try to do what I know to be right and meet my goals regardless of personality type. </p>
       </section>

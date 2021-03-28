@@ -19,13 +19,8 @@
 			<header id="myHeader">  
 			  <h1>Welcome to my Profile</h1>
 			  <p>Benjamin John Kwagala Wackyereza</p>
-			  <p>There are quite a number of things that you could try doing...</p>
+			  <img class="img1" src="DSCN0514..jpg" width="440" height="500" alt="Picture">
 			</header>
-
-			  <ul>
-				<li>Change the title for one...</li>
-				<li>Add some elements and images!</li>
-			  </ul>
 
 		<!-- Main -->
 		<div id="main">

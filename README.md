@@ -63,7 +63,7 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 			<p>Currently the skills I have are those that I’m learning from my subjects. This includes the basics of web development, python programming language, SQL DBMS concepts.
       Since I have the opportunity to study at RMIT, my plan is to make the most of this by continuing learning from these subjects and performing at my best.
       </p>
-			</section>
+		
 
   <section>
         <h3>Personal Profile</h3>
@@ -87,11 +87,7 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
       </section>
 
 </div>
-
-
-<footer>
-		  <p>Student number: 3894575 <b> Student email: s3894575@student.rmit.edu.au<p>
-		</footer>  
+<p>Student number: 3894575 <b> Student email: s3894575@student.rmit.edu.au<p>
 	</div>
 </body>
 </html>

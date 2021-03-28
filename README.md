@@ -93,7 +93,7 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 
 
 <footer>
-		  <p>Student number: 3894575 <b> student email address: s3894575@student.rmit.edu.au<p>
+		  <p>Student number: 3894575 <b> Student email: s3894575@student.rmit.edu.au<p>
 		</footer>  
 	</div>
 </body>

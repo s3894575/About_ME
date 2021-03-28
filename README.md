@@ -86,6 +86,11 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
       <section>
         <h3>Personal Profile</h3>
         <p>The following are based on the Leadership-style-quiz, learning-styles, 16 personalities.</p>
+	<p>img src=screenshot-leadership style.png" width="400" height="500" alt="profile"></p>
+	<p>img src=screenshot-learning style.png" width="400" height="500" alt="profile"></p>
+	<p>img src=screenshot-ENFP-A.png" width="400" height="500" alt="profile"></p>
+	
+
         <p>These results help inform my idea of who I am and show the possibility why I do the things I do. When it comes to relating with others, I feel that this is a somewhat accurate representation of how I would like to be. Especially when it comes to leadership, I want to be the servant leader for my team and others. However, at the end of the day my goal is always to try to do what I know to be right and meet my goals regardless of personality type. </p>
       </section>
       <section>

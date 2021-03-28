@@ -13,19 +13,16 @@
 </head>
 
 <body>
-<!-- Wrap -->
-	<div id="wrapper">
-		<!-- Head -->
-			<header id="myHeader">  
+
+<div id="wrapper">
+		
+<header id="myHeader">  
 			  <h1>Welcome to my Profile</h1>
 			  <p>Benjamin John Kwagala Wackyereza</p>
 			  <img class="img1" src="DSCN0514..jpg" width="440" height="500" alt="My Face">
 			</header>
 
-		<!-- Main -->
-		<div id="main">
-		<!-- Image -->
-		<!-- Intro Section-->
+		
 <section id="intro">
 			<header class="sectionHeading">
 				<h2>Background</h2>
@@ -45,7 +42,7 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
         </section>
       </section>
 
-		<!-- Background Section -->
+	
 <section id="background">
 			<header class="sectionHeading">
 				<h2>Career Interest</h2>
@@ -64,8 +61,8 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 					<p>Always interested in reading and learning more! I can not recommend having another interest enough outside of Information Technology. Such development and passion in other areas can only benefit you more.</p>
 				</section>
 			</section>  
-		<!-- Ideal Job Section -->
-			<section id="job">
+	
+<section id="job">
 			<header class="sectionHeading">
 				<h2>Ideal Job</h2>
 			</header>		
@@ -93,7 +90,7 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 
 </div>
 
-	<!-- Footer -->
+
 <footer>
 		  <p>And that's it... could put ownership details down here in the footer. Maybe contact details. etc..<p>
 		</footer>  

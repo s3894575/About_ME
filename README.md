@@ -86,8 +86,8 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
       <section>
         <h3>Personal Profile</h3>
         <p>The following are based on the Leadership-style-quiz, learning-styles, 16 personalities.</p>
-	<img src="screenshot-leadership style.png" width="400" height="500" alt="profile">
-	<img src="screenshot-learning style.png" width="400" height="500" alt="profile">
+	<p> img src="screenshot-leadership style.png" width="400" height="500" alt="profile" </p>
+	<img src="screenshot-learning style.png" width="400" height="500" alt="profile"> <b>
 	<img src="screenshot-ENFP-A.png" width="400" height="500" alt="profile">
 	
 

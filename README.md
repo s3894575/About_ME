@@ -25,9 +25,8 @@
 		<!-- Main -->
 		<div id="main">
 		<!-- Image -->
-			<img src="img/myface.jpg">
 		<!-- Intro Section-->
-			<section id="intro">
+<section id="intro">
 			<header class="sectionHeading">
 				<h2>Background</h2>
 			</header>
@@ -40,26 +39,26 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 </p>
 </section>
 
-        <section>
+ <section>
           <h3>Education</h3>
           <p>I graduated high school in 2020 and received the VCE-Baccalaureate certificate. Building on from that, I am currently a student at RMIT university studying the Bachelor of Information Technology. </p>
         </section>
       </section>
 
 		<!-- Background Section -->
-			<section id="background">
+<section id="background">
 			<header class="sectionHeading">
 				<h2>Career Interest</h2>
 			</header>
 
-				<section>
+<section>
 					<h3>Information Technology</h3>
 					<p>As my final year of high school was winding up, I gradually realized that I want to have a career in the Technology industry. When I was in school I researched almost all job fields, I watched day in the life videos and weighed the pros/cons of different careers in an effort to find the career that resonated with me. And after doing some personality tests that told me I would be better as a writer, I decided a job in the technology industry was what I wanted. </p>
 					<p>I decided that the Bachelor of IT degree would be a good start as there is a potential to specialise in many different fields of technology. I did not have to think long about which university would suit me, because hearing from my career adviser and other people RMIT was such an obvious choice for me. As I study at RMIT I want to develop skills that will enable me to become anything from DevOps developer or Network administrator to furthering my studies to work in A.I development.</p>
 				</section>
 
 
-				<section>
+<section>
 					<h3>Philosophy</h3>
 					<p>While there I don't have formal education in philosophy it is very much an interest of mine.</p>
 					<p>Always interested in reading and learning more! I can not recommend having another interest enough outside of Information Technology. Such development and passion in other areas can only benefit you more.</p>
@@ -71,14 +70,14 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
 				<h2>Ideal Job</h2>
 			</header>		
 
-      </section>	  
+  </section>	  
 			<p>My Ideal job is to become a DevOps engineer. With a job like this I am able to be in a place where I can bring about tangible real world change. For example a Senior DevOps Engineer for SilverRail, is in a position to change and improve the systems that are responsible for the efficient and safe transportation of cargo. This position requires someone to have a background in IT this includes various programming languages, computer operating systems, software development and most importantly strong communications skills with team members and clients. </p>
 			<p>Currently the skills I have are those that I’m learning from my subjects. This includes the basics of web development, python programming language, SQL DBMS concepts.
       Since I have the opportunity to study at RMIT, my plan is to make the most of this by continuing learning from these subjects and performing at my best.
       </p>
 			</section>
 
-      <section>
+  <section>
         <h3>Personal Profile</h3>
         <p>The following are based on the Leadership-style-quiz, learning-styles, 16 personalities.</p>
 	<img class="img1" src="screenshot-leadership style.png" width="440" height="500" alt="Picture">
@@ -92,10 +91,10 @@ Throughout my life, I have had a progression of hobbies, starting from playing v
       </section>
       </section>
 
-		</div>
+</div>
 
 	<!-- Footer -->
-		<footer>
+<footer>
 		  <p>And that's it... could put ownership details down here in the footer. Maybe contact details. etc..<p>
 		</footer>  
 	</div>
